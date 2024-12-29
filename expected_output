@@ -1,0 +1,133 @@
+[/home/ubuntu/Home/Download]> [/home/ubuntu]> [/tmp]> [/]> [/]> Error: Cannot change directory to hello. No such file or directory.
+[/]> Error: Cannot change directory to /bin/doesntexist. No such file or directory.
+[/]> Error: Cannot change directory to ../nonuser. No such file or directory.
+[/]> Error: Too many arguments to cd.
+[/]> [/usr/bin]> /usr/bin
+[/usr/bin]> touch: cannot touch 'newfile': Permission denied
+[/usr/bin]> ls: cannot access 'newfile': No such file or directory
+[/usr/bin]> rm: cannot remove 'newfile': No such file or directory
+[/usr/bin]> [/home/ubuntu]> /home/ubuntu
+[/home/ubuntu]> [/home/ubuntu]> -rw-rw-r-- 1 ubuntu ubuntu 0 Mar 29 19:27 newfile
+[/home/ubuntu]> [/home/ubuntu]> ls: cannot access 'newfile': No such file or directory
+[/home/ubuntu]> Hello
+[/home/ubuntu]> what up
+[/home/ubuntu]> Error: exec() failed. No such file or directory.
+[/home/ubuntu]> Error: exec() failed. No such file or directory.
+[/home/ubuntu]> Error: exec() failed. No such file or directory.
+[/home/ubuntu]> [/]> media
+var
+etc
+snap
+run
+sys
+mnt
+opt
+root
+lost+found
+sbin
+lib
+dev
+srv
+usr
+home
+bin
+tmp
+proc
+boot
+[/]>     1 root /sbin/init
+    2 root 
+    3 root 
+    4 root 
+    5 root 
+    6 root 
+    8 root 
+   10 root 
+   11 root 
+   12 root 
+   13 root 
+   14 root 
+   15 root 
+   16 root 
+   18 root 
+   19 root 
+   20 root 
+   21 root 
+   22 root 
+   23 root 
+   24 root 
+   25 root 
+   26 root 
+   27 root 
+   73 root 
+   74 root 
+   75 root 
+   76 root 
+   77 root 
+   78 root 
+   79 root 
+   80 root 
+   81 root 
+   83 root 
+   84 root 
+   85 root 
+   87 root 
+   88 root 
+   89 root 
+   91 root 
+   92 root 
+  101 root 
+  104 root 
+  105 root 
+  108 root 
+  146 root 
+  187 root 
+  188 root 
+  251 root 
+  300 root 
+  301 root 
+  372 root /lib/systemd/systemd-journald
+  400 root 
+  401 root 
+  403 root 
+  404 root 
+  405 root /sbin/multipathd
+  406 root /lib/systemd/systemd-udevd
+  506 systemd-timesync /lib/systemd/systemd-timesyncd
+  559 systemd-network /lib/systemd/systemd-networkd
+  561 systemd-resolve /lib/systemd/systemd-resolved
+  597 root /usr/sbin/cron
+  599 messagebus @dbus-daemon
+  606 root /usr/bin/python3
+  607 syslog /usr/sbin/rsyslogd
+  609 root /usr/lib/snapd/snapd
+  611 root /lib/systemd/systemd-logind
+  616 root /sbin/agetty
+  618 root /sbin/agetty
+  644 root sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+  650 root /usr/bin/python3
+  787 root sshd: ubuntu [priv]
+  790 ubuntu /lib/systemd/systemd
+  791 ubuntu (sd-pam)
+  875 ubuntu sshd: ubuntu@notty
+  891 ubuntu /usr/bin/dbus-daemon
+  909 root sudo
+  910 root /snap/multipass-sshfs/147/bin/sshfs
+  920 root sshd: ubuntu [priv]
+  965 ubuntu sshd: ubuntu@notty
+  994 root sudo
+  995 root /snap/multipass-sshfs/147/bin/sshfs
+ 1447 root /usr/libexec/packagekitd
+ 1451 root /usr/libexec/polkitd
+ 1641 root sshd: ubuntu [priv]
+ 1717 ubuntu sshd: ubuntu@pts/0
+ 1718 ubuntu -zsh
+ 9122 root 
+10033 root 
+10122 root 
+10150 root 
+14293 root 
+14611 ubuntu -zsh
+14612 ubuntu ./a.out
+14613 ubuntu sed
+[/]> Error: exec() failed. No such file or directory.
+[/]> 

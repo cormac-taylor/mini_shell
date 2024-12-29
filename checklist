@@ -1,0 +1,29 @@
+cd
+cd /tmp
+cd ..
+cd .
+cd hello
+cd /bin/doesntexist
+cd ../nonuser
+cd too many args
+cd ~/../../bin/
+pwd
+touch newfile
+ls -l newfile
+rm newfile
+cd ~
+pwd
+touch newfile
+ls -l newfile
+rm newfile
+ls -l newfile
+echo Hello
+echo what up
+heyzombie
+gonna collect zombies
+quit
+cd /
+lf
+lp
+exitt
+exit
